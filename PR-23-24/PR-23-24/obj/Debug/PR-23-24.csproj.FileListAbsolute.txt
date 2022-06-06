@@ -1,0 +1,22 @@
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\bin\Debug\PR-23-24.exe.config
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\bin\Debug\PR-23-24.exe
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\bin\Debug\PR-23-24.pdb
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.csproj.AssemblyReference.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR_23_24.Form1.resources
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR_23_24.Properties.Resources.resources
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.csproj.GenerateResource.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.csproj.CoreCompileInputs.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.exe
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.pdb
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR_23_24.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\bin\Debug\PR-23-24.exe.config
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\bin\Debug\PR-23-24.exe
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\bin\Debug\PR-23-24.pdb
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR_23_24.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR_23_24.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR_23_24.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.exe
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\PR-23-24\PR-23-24\obj\Debug\PR-23-24.pdb
